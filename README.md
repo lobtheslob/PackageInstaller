@@ -1,2 +1,0 @@
-# PackageInstaller
-Package Installer - Exercises
