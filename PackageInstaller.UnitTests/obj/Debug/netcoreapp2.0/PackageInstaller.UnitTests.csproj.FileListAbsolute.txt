@@ -1,0 +1,17 @@
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\PackageInstaller.UnitTests.deps.json
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\PackageInstaller.UnitTests.runtimeconfig.json
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\PackageInstaller.UnitTests.runtimeconfig.dev.json
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\PackageInstaller.UnitTests.dll
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\PackageInstaller.UnitTests.pdb
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\PackageInstaller.dll
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\bin\Debug\netcoreapp2.0\PackageInstaller.pdb
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\obj\Debug\netcoreapp2.0\PackageInstaller.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\obj\Debug\netcoreapp2.0\PackageInstaller.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\obj\Debug\netcoreapp2.0\PackageInstaller.UnitTests.AssemblyInfoInputs.cache
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\obj\Debug\netcoreapp2.0\PackageInstaller.UnitTests.AssemblyInfo.cs
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\obj\Debug\netcoreapp2.0\PackageInstaller.UnitTests.dll
+C:\Users\TSimpson\Documents\Visual Studio 2017\Projects\PackageInstaller\PackageInstaller.UnitTests\obj\Debug\netcoreapp2.0\PackageInstaller.UnitTests.pdb
